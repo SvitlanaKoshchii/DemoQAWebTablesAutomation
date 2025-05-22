@@ -47,7 +47,7 @@ DemoQAWebTablesAutomation/
 #### Cloning the Repository
 Clone the repository excuting command: 
 ```bash
-git clone
+git clone https://github.com/SvitlanaKoshchii/DemoQAWebTablesAutomation.git
 ```
 
 #### Running the Test
