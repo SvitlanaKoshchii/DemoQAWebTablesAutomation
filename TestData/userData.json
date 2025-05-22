@@ -1,0 +1,11 @@
+{
+  "user": {
+    "firstName": "Siena",
+    "lastName": "Riley",
+    "email": "siena.riley@test.com",
+    "age": 34,
+    "salary": 40000,
+    "department": "QA Engineer"
+  },
+  "updatedSalary": 45000
+}
